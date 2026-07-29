@@ -30,6 +30,7 @@ It provides insights into sales performance, customer ordering trends, and best-
 - README.md – Project documentation
 
 ## Dashboard Preview
+
 ![Dashboard Preview](Sales Dashboard.png)
 
 ## Skills Demonstrated
