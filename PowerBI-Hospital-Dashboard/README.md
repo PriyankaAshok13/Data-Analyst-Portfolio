@@ -57,15 +57,15 @@ Provides detailed patient-level information including patient demographics, admi
 
 ### Monthly View
 
-![Monthly View](Dashboard Screenshots/01_ER_Monthly_View.png)
+![Monthly View](Dashboard_Screenshots/01_ER_Monthly_View.png)
 
 ### Consolidated View
 
-![Consolidated View](Dashboard Screenshots/02_ER_Consolidated_View.png)
+![Consolidated View](Dashboard_Screenshots/02_ER_Consolidated_View.png)
 
 ### Patient Details
 
-![Patient Details](Dashboard Screenshots/03_ER_Patient_Details.png)
+![Patient Details](Dashboard_Screenshots/03_ER_Patient_Details.png)
 
 ## Skills Demonstrated
 
